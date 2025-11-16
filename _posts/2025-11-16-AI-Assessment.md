@@ -168,4 +168,4 @@ surreal slop.\
 Well, you think as you drift off, at least you've learned what fabric
 softener does.\\
 
-Permalink: {{ site.url }}{{ page.url }}
+Permalink: [{{ site.url }}{{ page.url }}]({{ site.url }}{{ page.url }})
