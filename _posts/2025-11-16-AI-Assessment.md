@@ -30,8 +30,8 @@ prompt---something about comparing Australia's intervention in East
 Timor to the Spanish-American War. Did you cover that in class? Who
 knows. Back in week four the school cancelled its access to the student
 version of Microsoft Copilot for AI Lecture Summaries for Canvas.
-Someone told you that you should download the course videos from Canvas
-and chuck them in OrikanGPT, but when you asked Canvas support chat how
+Someone told you to just  download the course videos from Canvas
+and chuck them in OrikanGPT. But when you asked Canvas support chat how
 to download videos it said you'd have to watch five ads about fabric
 softener, so you gave up. Anwyay, NotionPlusProFreemium said it wasn't a
 high priority.\
@@ -72,22 +72,22 @@ teacher, or you ask it for grandmotherly stories about the
 Spanish-American war. The best you get is from the old 'Let's write
 historical fiction together' trick but that takes a full fifteen
 minutes, and comes back with someone named Teddy Roosevelt piloting a
-giant Mech using his railguns to sink the USS Maine. They always tell
+giant Mech and using his railguns to sink the USS Maine. They always tell
 you to think critically about AI, and you're pretty sure that Mecha
-didn't exist until at least the 1950s. (AI overview on google is
-inconclusive.) But that's out.\
+didn't exist until at least the 1950s. (The AI overview on google is
+inconclusive though.)\
 \
 You decide to stop wasting time. What are your options for research?
 There are the free sites. NotionPlusProFreemium recommends
 LowkeyGPT.biz. Good. You used that once, back on the assignment about
-nuclear power, the one that OrikanGPT claimed was a security risk. That
-was dumb---it wasn't about bombs, it was about how someone in the 1950s
+nuclear power that OrikanGPT wouldn't touch.  That was a fun one. Someone in the 1950s
 thought that nuclear technology would improve so quickly that soon
 electricity would be too cheap to meter, and you were supposed to
 compare that to the promise of the early 2000s that every video that
 ever existed would be available on a single streaming platform for
 everyone for pennies a year. (God, people in the past used to be so
-naïve about technology.) Anyway, you remember it as reliable in a pinch.
+naïve about technology.) OrikanGPT wouldn't write it because of something about nuclear nonproliferation,
+so frustrating.  Anyway, you remember LowkeyGPT.biz as reliable enough.
 You drop in the prompt, make another cup of tea. When you get back,
 though, disaster:\
 \
@@ -108,15 +108,15 @@ Without NotionPlusProFreemium you're not sure how to find the other free
 sites. You'll have to call a friend for help. But ANU has one of the
 best AI subscriptions, so your friends at other unis won't be any use.
 (You hear that the fancy private colleges in the US are better.
-*Everyone* at Harvard gets ChatGPT! What do they even do? Skiing, I
+*Everyone* at Harvard gets ChatGPT! What do they even do all day? Ski, I
 guess.) Your old mate who works for Deloitte now would have access to
 one of the good corporate LLMs. He's not answering texts though. Access
 to corporate Chat comes with insane productivity requirements to justify
 the cost, so he's probably still at the office.\
 \
 But wait --- there's the girl you dated last year. You're still friendly
-with her, and she went to the public service after graduation, so she'd
-have access to EmuGPT. She's not super happy to get a text late Friday
+with her, and she went to the public service after graduation, so she would
+have access to EmuGPT. Brilliant! She's not super happy to get a text late Friday
 night, but she is sympathetic---she was at ANU when they dropped access
 to Copilot For Students for Canvas Assessments (what a mess). Even
 better, she has after-hours access! She puts you on Facetime so you can
@@ -144,7 +144,7 @@ Education Edition 2028, and if you're clever enough you can get that to
 write Python code that then outputs a paper. I bet you can get it to
 tell you about the Spanish American War. Good little trick. Good plan.
 You pat yourself on the back. And hey, now there's no way for you to
-know what other assignments are coming up until monday, so you get a few
+know what other assignments are coming up until Monday, so you get a few
 days to relax.\
 \
 At 11:58, an email comes in from your tutor: you're pregnant? From
@@ -168,6 +168,5 @@ surreal slop.\
 \
 Well, you think as you drift off, at least you've learned what fabric
 softener does.\
-\
 \
 \
