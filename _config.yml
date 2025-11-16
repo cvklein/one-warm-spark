@@ -1,3 +1,4 @@
 theme: minima
 author: Colin Klein
-description: A minimalist blog.  
+description: A minimalist blog
+permalink: pretty  
