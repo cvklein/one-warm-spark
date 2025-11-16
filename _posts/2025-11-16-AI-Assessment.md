@@ -159,12 +159,13 @@ that no, OpenAI couldn't just keep taking venture capital, heaping it in
 a big pile, and lighting it on fire. They needed to burn other people's
 money instead. Even then, for a few years after, there were
 alternatives. Solutions. And always people saying the tech would get
-cheaper, easier. New chips would make inference inexpensive. Or 
+cheaper, easier. New chips would make inference inexpensive. Or
 we could tweak the open weight stuff to be useful. Or at least not full
 of weird LLM viruses. Back when if you *did* need to check the web,
 google would show you websites, and some of them weren't filled with
 surreal slop.\
 \
 Well, you think as you drift off, at least you've learned what fabric
-softener does.\
-\
+softener does.\\
+
+Permalink: {{ site.url }}{{ page.url }}
