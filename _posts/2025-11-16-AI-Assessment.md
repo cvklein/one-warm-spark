@@ -15,8 +15,7 @@ wonky. This week it has been increasingly urgent about you doing your
 laundry, and whether you have enough fabric softener, and the need to
 purchase Bondi Wash Delicate Wash Fabric softener the next time you go
 to the store. You'd switch if you could, all your friends are using
-MetaScheduler now, but (a) you've had it since year 9, back when it was
-just plain old Notion, and (b) you once asked it how to move your
+MetaScheduler now, but (a) you've had it since year 9, and (b) you once asked it how to move your
 current to-dos but it said it's impossible and refused to talk to you
 for two days. Anyway, you finally bought the damn fabric softener (you
 asked what fabric softener is used for, but it said you'd have to watch
