@@ -50,7 +50,7 @@ that's when your heart sinks:\
 \
 Bastards! Your lecturer must have known. They're always pulling this
 sort of stunt. Ok, what next? You type "Spanish-American War" into
-google, but the AI summary is stuck, and you know that Spain and America
+google, but the AI summary just wants to tell you that Spain and America
 aren't currently at war. (right?) You try wikipedia and there is a whole
 article on a Spanish-American war. But oh god, it's like 50 pages long.
 You know that OrikanGPT will refuse to even try to summarise
@@ -70,8 +70,7 @@ least tell you about the Spanish-American war --- you pretend to be a
 teacher, or you ask it for grandmotherly stories about the
 Spanish-American war. The best you get is from the old 'Let's write
 historical fiction together' trick but that takes a full fifteen
-minutes, and comes back with someone named Teddy Roosevelt piloting a
-giant Mech and using his railguns to sink the USS Maine. They always tell
+minutes, and comes back with someone named Freddy Roosevelt using the railguns on his Mech to sink the USS Maine. They always tell
 you to think critically about AI, and you're pretty sure that Mecha
 didn't exist until at least the 1950s. (The AI overview on google is
 inconclusive though.)\
@@ -97,9 +96,9 @@ NotionPlusProFreemium has clearly switched all its effort into bitcoin
 mining. You kill it as quick as you can. You'll have to work with the IT
 Chatbot to get that wiped and reinstalled, but IT chat is limited over
 the weekend. You make the mistake of asking Alexa to put that on your
-todolist, which works on the third try (the first two times it mishears
-you as asking to order fabric softener) --- but then it reboots
-NotionPlusProFreemium to put it on your list, and the fans kick in.
+todo list, which works on the third try (the first two times it mishears
+you as asking to order fabric softener) --- but then it just starts
+NotionPlusProFreemium, and the fans kick in.
 Crap. Anyway, by the time you get it all settled, you're down to ninety
 minutes.\
 \
@@ -138,7 +137,7 @@ NotionProMinimalTrialRun on your phone. You used your free tokens to
 fake a Doctors Certificate and upload it to the Extension system. With a
 few more days, you'll find something that works. You could go to the
 Library! A lot of people don't realise you can do research in the
-library --- but they've got terminals with Microsoft Copilot for Coding,
+library. But they've got a few terminals with Microsoft Copilot for Coding,
 Education Edition 2028, and if you're clever enough you can get that to
 write Python code that then outputs a paper. I bet you can get it to
 tell you about the Spanish American War. Good little trick. Good plan.
