@@ -16,7 +16,7 @@ laundry, and whether you have enough fabric softener, and the need to
 purchase Bondi Wash Delicate Wash Fabric softener the next time you go
 to the store. You'd switch if you could, all your friends are using
 MetaScheduler now, but (a) you've had it since year 9, and (b) you once asked it how to move your
-current to-dos but it said it's impossible and refused to talk to you
+current to-dos but it said that would be impossible and then got snippy and refused to talk to you
 for two days. Anyway, you finally bought the damn fabric softener (you
 asked what fabric softener is used for, but it said you'd have to watch
 three ads and that seems hardly worth it). Then it let you know that you
@@ -168,6 +168,6 @@ surreal slop.\
 Well, you think as you drift off, at least you've learned what fabric
 softener does.\
 \
-Update: [The next post](https://cvklein.github.io/one-warm-spark/2025/11/17/Explaining_the_Joke/) explains a bit of background and my assumptions. 
+Update: [The next post](https://cvklein.github.io/one-warm-spark/2025/11/17/Explaining_the_Joke/) explains a bit of background and my assumptions.
 
 Permalink: [{{ site.url }}{{ page.url }}]({{ site.url }}{{ page.url }})
