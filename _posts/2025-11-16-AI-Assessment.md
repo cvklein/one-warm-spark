@@ -168,4 +168,6 @@ surreal slop.\
 Well, you think as you drift off, at least you've learned what fabric
 softener does.\\
 
+Update: [https://cvklein.github.io/one-warm-spark/2025/11/17/Explaining_the_Joke/](https://cvklein.github.io/one-warm-spark/2025/11/17/Explaining_the_Joke/) explains the background. 
+
 Permalink: [{{ site.url }}{{ page.url }}]({{ site.url }}{{ page.url }})
