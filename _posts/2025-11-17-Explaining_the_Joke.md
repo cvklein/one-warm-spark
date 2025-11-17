@@ -2,7 +2,7 @@
 title: "Explaining the joke"
 date: 2025-11-17
 ---
-[Yesterday's post](https://cvklein.github.io/2025/11/16/AI-Assessment/) about AI and assessment was prompted by being sent, for the hundredth time, something that said "Well, AI is here to stay, so we have to teach students how to use it."
+[Yesterday's post](https://cvklein.github.io/one-warm-spark/2025/11/16/AI-Assessment/) about AI and assessment was prompted by being sent, for the hundredth time, something that said "Well, AI is here to stay, so we have to teach students how to use it."
 
 I think this is incredibly naïve, in two ways.
 
@@ -41,6 +41,6 @@ I'm not saying that we need to teach things in the same way, or using the same a
 
 
 
-[^1] I stole the analogy from my wife. Thanks, dear!  Also note to self, figure out how footnotes work, because this ain't it. 
+[^1] I stole the analogy from my wife. Thanks, dear!  Also note to self, figure out how footnotes work, because this ain't it.
 
 Permalink: [{{ site.url }}{{ page.url }}]({{ site.url }}{{ page.url }})
