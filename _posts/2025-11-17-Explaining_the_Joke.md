@@ -4,11 +4,11 @@ date: 2025-11-17
 ---
 [Yesterday's post](https://cvklein.github.io/2025/11/16/AI-Assessment/) about AI and assessment was prompted by being sent, for the hundredth time, something that said "Well, AI is here to stay, so we have to teach students how to use it."
 
-I think this is naïve as hell, in two ways.
+I think this is incredibly naïve, in two ways.
 
 First, generative AI is here to stay. But that's not the same as saying that cheap, good, easily accessible AI is here to stay.If you're imagining a future where your students get cheap, good, easily accessible AI for free, ask yourself: who's making a profit in that scenario? How does all that venture capital get its money back?
 
-Generative AI is *staggeringly* expensive to run. My story was partly inspired by [recent](https://pluralistic.net/2025/09/27/econopocalypse/) [reports](https://www.wheresyoured.at/make-fun-of-them/) that OpenAI is losing billions of dollars a year just on inference. If you're not familiar with the jargon, inference is actually running the AI model to get the answer. So there are staggering losses involved in just delivering the core product -- not training new models, not salaries, not infrastructure.  *Just doing the thing* is an insatiable money pit.
+Generative AI is *staggeringly* expensive to run. My story was partly inspired by [recent](https://pluralistic.net/2025/09/27/econopocalypse/) [reports](https://www.wheresyoured.at/make-fun-of-them/) that OpenAI is losing billions of dollars a year just on inference. If you're not familiar with the jargon, inference is actually running the AI model to get the answer. So there are enormous losses involved in just delivering the core product -- not training new models, not salaries, not infrastructure.  *Just doing the thing* is an insatiable money pit.
 
 But technology will save us, Colin! Costs of inference will go down, new chips, blah blah.  I mean, sure. Maybe electricity will also end up too cheap to meter. The problem is that there are hard scaling laws at work here. Models get better by making the context windows larger.  Making context windows larger scales badly. That's a fact about how the transformer architecture works.  That's why current models chew through electricity and GPUs like Cookie Monster after a few bong hits.
 
