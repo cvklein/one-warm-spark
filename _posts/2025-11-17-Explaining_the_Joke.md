@@ -36,7 +36,7 @@ Here's another way to put the same point. Suppose you had a perfect oracle, who 
 
 But if LLMs are not perfect oracles---and they obviously aren't---then the best thing we can do, by a long shot, is teach the skills that will, incidentally, let you realise when LLMs are making shit up, or has written facile and content-less prose, or whatever.
 
-I'm not saying that we need to teach things in the same way, or using the same assessment structures, or whatever. What we had before often didn't work terribly well. But the idea that we need to suddenly drop everything and reconfigure University education is not a *fait accompli*. It's a sales pitch. And it's a sales pitch made by people who are desperate to sell you access, at extortionate prices, to the very thing they tell you is the future.
+I'm not saying that we need to teach things in the same way, or using the same assessment structures, or whatever. What we had before often didn't work terribly well. But the idea that we need to suddenly drop everything and reconfigure University education is not a *fait accompli*. It's a sales pitch. And it's a sales pitch made by people who are desperate to sell you access, at extortionate prices, to the very thing they tell you the future will require. 
 
 
 
