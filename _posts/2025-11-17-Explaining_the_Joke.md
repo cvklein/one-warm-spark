@@ -16,11 +16,11 @@ But ok, put that aside. Pretend tech is magic.  No matter how cheap things get, 
 
 Now, that could end up looking a lot of different ways. The story assumes that OpenAI ends up like Adobe or Microsoft. Your University / workplace is on the hook for millions of dollars a year for a site license. Or you're an independent professional and get slowly screwed by weird subscription fees to get the tool that you're now dependent on.  But unlike (say) Microsoft Word, there won't be easy cheap alternatives: remember, part of the problem is that *just doing the thing* is expensive. Free models will go out of date quickly. Or will only run with short context windows. Or generally suck. And what's going to pay for the electricity and GPUs? Presumably, what the modern internet excels at: noxious bullshit advertising.
 
-The world we should be preparing students for is not the world we're in now. It's a world where people charge money for AI. As much money as they can get away with.  Remember, there are lots of awesome things that we could do with current technology that we don't do, just Because capital needs return on investment.  When I am in grumbly old man mood, I tell my students about the halcyon days of 2006, when I could get basically any movie ever made from Netflix. Gosh, that was great. We could do that now! The reason why we don't is not technology,  but the iron demands of capitalism.  And if anyone tells you differently, ask them what they're selling.
+The world we should be preparing students for is not the world we're in now. It's a world where people charge money for AI. As much money as they can get away with.  Remember, there are lots of awesome things that we could do with current technology that we don't do, just because capital demands a return.  When I am in grumbly old man mood, I tell my students about the halcyon days of 2006, when I could get basically any movie ever made from Netflix. Gosh, that was great. We could do that now! The reason why we don't is not technology,  but the iron demands of capitalism.  And if anyone tells you differently, ask them what they're selling.
 
-Second point of naïveté, following off from the first. There's this idea that we somehow need to teach students how to use the technology. Now, there are a few ways to take this. I think sometimes people think something like  "wow, a new technology, the kids don't know how to use it! Maybe we need to teach them, like, the ins and outs of prompt engineering and such."
+Second point of naïveté, following off from the first. There's this idea that we somehow need to teach students how to use the technology.
 
-Pshaw. The kids know how to do this. They use it more than you do. [Way more](https://arxiv.org/html/2501.10551v4). Also, chat-based LLMs are made to be easy to use: the big problem with LLM hallucinations is that it's trivial to get LLMs to confidently spit out bullshit. LLMs are like iPads. You pick one up, you use it, you fiddle with it, it's easy. We do not spend any time telling students how to use iPads.  A lot of smart people were paid a lot of money to make it thus.
+Now, there are a few ways to take this. I think sometimes people think something like  "wow, a new technology, the kids don't know how to use it! Maybe we need to teach them, like, the ins and outs of prompt engineering and such." Pshaw. The kids know how to use Chat. They use it more than you do. [Way more](https://arxiv.org/html/2501.10551v4). Also, chat-based LLMs are made to be easy to use: the big problem with LLM hallucinations is that it's trivial to get LLMs to confidently spit out bullshit. LLMs are like iPads. You pick one up, you fiddle with it, you've basically got it. A lot of smart people were paid a lot of money to make it thus. We do not spend any time teaching students how to use iPads.  
 
 Now, maybe in one of the possible future cyberpunk dystopias where your salary is docked for every token over your allocation?  Sure, then let's teach them to keep it tight. But for now, there's no tech problem that students need to be taught to solve.
 
@@ -41,6 +41,6 @@ I'm not saying that we need to teach things in the same way, or using the same a
 
 
 
-[^1] I stole the analogy from my wife. Thanks, dear!
+[^1] I stole the analogy from my wife. Thanks, dear!  Also note to self, figure out how footnotes work, because this ain't it. 
 
 Permalink: [{{ site.url }}{{ page.url }}]({{ site.url }}{{ page.url }})
