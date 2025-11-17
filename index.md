@@ -2,4 +2,4 @@
 title: One Warm Spark
 ---
 
-Here's some information about me. 
+I'm Colin Klein. By day I'm a philosopher at the [Australian National University](https://philosophy.cass.anu.edu.au). You can find my professional profile at my [home page](https://www.colinklein.org/). This is for miscellaneous leftovers and random thoughts--the collapse of social media hasn't kept me from wanting to ramble.
