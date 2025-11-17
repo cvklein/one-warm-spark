@@ -166,8 +166,8 @@ google would show you websites, and some of them weren't filled with
 surreal slop.\
 \
 Well, you think as you drift off, at least you've learned what fabric
-softener does.\\
-
-Update: [The next post](https://cvklein.github.io/one-warm-spark/2025/11/17/Explaining_the_Joke/) explains a bit of background and assumptions
+softener does.\
+\
+Update: [The next post](https://cvklein.github.io/one-warm-spark/2025/11/17/Explaining_the_Joke/) explains a bit of background and my assumptions. 
 
 Permalink: [{{ site.url }}{{ page.url }}]({{ site.url }}{{ page.url }})
