@@ -2,7 +2,7 @@
 title: "Explaining the joke"
 date: 2025-11-17
 ---
-[Yesterday's post](https://cvklein.github.io/one-warm-spark/2025/11/16/AI-Assessment/) about AI and assessment was prompted by being sent, for the hundredth time, something that said "Well, AI is here to stay, so we have to teach students how to use it."
+[Yesterday's post]({% post_url 2025-11-16-AI-Assessment %}) about AI and assessment was prompted by being sent, for the hundredth time, something that said "Well, AI is here to stay, so we have to teach students how to use it."
 
 I think this is incredibly naïve, in two ways.
 
