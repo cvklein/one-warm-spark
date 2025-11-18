@@ -170,4 +170,4 @@ softener does.\
 \
 Update: [The next post]({{ site.baseurl }}{% post_url 2025-11-17-Explaining_the_Joke %}) explains a bit of background and my assumptions.
 
-Permalink: [{{site.baseurl}}{{ page.url }}]({{site.baseurl}}{{ page.url }})
+Permalink: [{{site.url}}{{site.baseurl}}{{ page.url }}]({{site.baseurl}}{{ page.url }})
