@@ -1,6 +1,7 @@
 ---
 title: "AI and the Future of Assessment"
 date: 2025-11-16
+category: writing
 ---
 
 It's October 31st, 2030. It's 8pm. You have a paper due for your
