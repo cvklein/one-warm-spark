@@ -44,4 +44,4 @@ I'm not saying that we need to teach things in the same way, or using the same a
 
 [^1] I stole the analogy from my wife. Thanks, dear!  Also note to self, figure out how footnotes work, because this ain't it.
 
-Permalink: [{{ site.url }}{{ page.url }}]({{ site.url }}{{ page.url }})
+Permalink: [{site.baseurl}}{{ page.url }}]({site.baseurl}}{{ page.url }})
