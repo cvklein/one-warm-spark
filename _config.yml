@@ -2,6 +2,9 @@ theme: minima
 #remote_theme: pages-themes/minimal@v0.2.0
 #plugins:
 #- jekyll-remote-theme
+minima:
+  skin: solarized
+  show_excerpts: true
 author: Colin Klein
 description: Nascent thoughts, cranky grumbling, and self-promotion.
 permalink: pretty
