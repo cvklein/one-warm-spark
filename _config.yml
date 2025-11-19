@@ -3,10 +3,12 @@ remote_theme: jekyll/minima
 #plugins:
 #- jekyll-remote-theme
 minima:
-  skin: dark
+  skin: solarized
   show_excerpts: true
 
-author: Colin Klein
+author:
+  name: Colin Klein
+  email: cvklein@gmail.com
 description: Nascent thoughts, cranky grumbling, and self-promotion.
 permalink: pretty
 timezone: Australia/Canberra

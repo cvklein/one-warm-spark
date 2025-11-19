@@ -6,8 +6,8 @@ category: writing
 
 It's October 31st, 2030. It's 8pm. You have a paper due for your
 international relations class in four hours, and---you're slowly
-realising---you're screwed.\
-\
+realising---you're screwed.
+
 It's not your fault. At the beginning of the semester you put all of
 your course guides into your favourite LLM to-do manager,
 NotionPlusProFreemium. It's supposed to tell you what to do each day,
@@ -23,8 +23,8 @@ asked what fabric softener is used for, but it said you'd have to watch
 three ads and that seems hardly worth it). Then it let you know that you
 have a paper due tomorrow. Four hours should be fine, it says! Maybe in
 the old days, NotionPlusProFreemium. Maybe in the old days. But let's
-get cracking.\
-\
+get cracking.
+
 You fire up the University-provided LLM, OrikanGPT. Drop in the
 prompt---something about comparing Australia's intervention in East
 Timor to the Spanish-American War. Did you cover that in class? Who
