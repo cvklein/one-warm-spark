@@ -5,6 +5,7 @@ theme: minima
 minima:
   skin: dark
   show_excerpts: true
+
 author: Colin Klein
 description: Nascent thoughts, cranky grumbling, and self-promotion.
 permalink: pretty
